@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useNobelContext } from "../Context/NobelPriceContext";
+import { useNobelContext } from "../context/NobelPriceContext";
 import IndividualNobelPrize from "./IndividualNobelPrize";
 import "./app.css";
 import { filterData, getYears } from "../utils/NobelUtils";
