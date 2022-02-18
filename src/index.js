@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import { NobelContext } from "./Context/NobelPriceContext";
+import { NobelContext } from "./context/NobelPriceContext";
 
 ReactDOM.render(
   <React.StrictMode>
