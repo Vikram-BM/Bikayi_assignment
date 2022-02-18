@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FetchData } from "../utils/NobelUtils";
-import { useNobelContext } from "../Context/NobelPriceContext";
+import { useNobelContext } from "../context/NobelPriceContext";
 import NobelPriceWinnersAll from "../Components/NobelPriceWinnersAll";
 import NobelPrizeMultipleWinner from "../Components/NobelPrizeMultipleWinner";
 import Loader from "../loader/Loader";
