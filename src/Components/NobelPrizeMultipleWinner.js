@@ -1,5 +1,5 @@
 import React from "react";
-import { useNobelContext } from "../Context/NobelPriceContext";
+import { useNobelContext } from "../context/NobelPriceContext";
 import NobelPriceWinnerlaureates from "./NobelPriceWinnerlaureates";
 
 function NobelPrizeMultipleWinner() {
